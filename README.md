@@ -1,8 +1,6 @@
-# CODEWITHME
+# CodeCast
 
-# Features:
-- Developed an application that provides a Real Time Code Editor, video feature , and whiteboard feature at one place with multiple user access in synchorised way to all.
-- Used React.js for good UI
-- Used Socket.io for Multi user connections
-- MongoDB for Database
-
+A real-time Collaborative Code Editor
+Implemented Differential Synchronization to reduce data transfer
+Introduced video chat and whiteboard features, boosting collaboration efficiency and user retention
+Technologies Used: Socket.io, WebRTC, JWT, ReactJS, NodeJS, ExpressJS and MongoDB
